@@ -1,0 +1,29 @@
+
+N  Language   ISO-639 code Text                            
+1  bulgarian  bg           Сигнал за въздушно нападение    
+2  czech      cs           Poplach při leteckém poplachu   
+3  danish     da           Alarm for luftangreb            
+4  german     de           Luftangriffsalarm               
+5  greek      el           Συναγερμός αεροπορικής επιδρομής
+6  english    en           Airborne alarm                  
+7  spanish    es           Alarma antiaérea                
+8  estonian   et           Õhuhäire                        
+9  finnish    fi           Ilmahälytys                     
+10 french     fr           Alarme anti-aérienne            
+11 hungarian  hu           Légiriadó                       
+12 indonesian id           Alarm serangan udara            
+13 italian    it           Allarme antiaereo               
+14 japanese   ja           空襲警報                            
+15 lithuanian lt           Oro pavojaus signalas           
+16 latvian    lv           Gaisa uzbrukuma trauksme        
+17 dutch      nl           Luchtalarm                      
+18 polish     pl           Alarm przeciwlotniczy           
+19 portuguese pt           Alarme de ataque aéreo          
+20 romanian   ro           Alarmă de raid aerian           
+21 russian    ru           Воздушная тревога               
+22 slovak     sk           Letecký poplach                 
+23 slovenian  sl           Alarm za zračni napad           
+24 swedish    sv           Larm för luftangrepp            
+25 turkish    tr           Hava saldırısı alarmı           
+26 ukrainian  uk           Повітряна тривога               
+27 chinese    zh           空袭警报                            

@@ -1,0 +1,109 @@
+
+N   Language              ISO-639 code Text                  
+1   afrikaans             af           Lug alarm             
+2   albanian              sq           Alarmi ajror          
+3   amharic               am           የአየር ማንቂያ             
+4   arabic                ar           إنذار الهواء          
+5   armenian              hy           Օդային ազդանշան       
+6   azerbaijani           az           Hava siqnalı          
+7   basque                eu           Aire alarma           
+8   belarusian            be           Паветраная трывога    
+9   bengali               bn           এয়ার অ্যালার্ম       
+10  bosnian               bs           Vazdušni alarm        
+11  bulgarian             bg           Въздушна аларма       
+12  catalan               ca           Alarma d'aire         
+13  cebuano               ceb          Alarm sa hangin       
+14  chichewa              ny           Alamu yapamlengalenga 
+15  chinese (simplified)  zh-cn        空气报警器                 
+16  chinese (traditional) zh-tw        空氣警報器                 
+17  corsican              co           Alarma d'aria         
+18  croatian              hr           Zračni alarm          
+19  czech                 cs           Vzduchový alarm       
+20  danish                da           Luftalarm             
+21  dutch                 nl           Luchtalarm            
+22  english               en           Air alarm             
+23  esperanto             eo           Aera alarmo           
+24  estonian              et           Õhualarm              
+25  filipino              tl           Alarm ng hangin       
+26  finnish               fi           Ilmahälytys           
+27  french                fr           Alarme aérienne       
+28  frisian               fy           Loft alarm            
+29  galician              gl           Alarma de aire        
+30  georgian              ka           საჰაერო სიგნალიზაცია  
+31  german                de           Luftalarm             
+32  greek                 el           Συναγερμός αέρα       
+33  gujarati              gu           એર એલાર્મ             
+34  haitian creole        ht           Alam lè               
+35  hausa                 ha           Ƙararrawar iska       
+36  hawaiian              haw          ʻEa hoʻāla            
+37  hebrew                iw           אזעקת אוויר           
+38  hebrew                he           אזעקת אוויר           
+39  hindi                 hi           एयर अलार्म            
+40  hmong                 hmn          Cua tswb              
+41  hungarian             hu           Légi riasztó          
+42  icelandic             is           Loftviðvörun          
+43  igbo                  ig           Mkpu ikuku            
+44  indonesian            id           Alarm udara           
+45  irish                 ga           Aláram aer            
+46  italian               it           Allarme aereo         
+47  japanese              ja           空気警報器                 
+48  javanese              jw           Weker hawa            
+49  kannada               kn           ಏರ್ ಅಲಾರ್ಮ್           
+50  kazakh                kk           Ауа дабылы            
+51  khmer                 km           សំឡេងរោទិ៍ខ្យល់       
+52  korean                ko           공기 경보                 
+53  kurdish (kurmanji)    ku           Alarm hewa            
+54  kyrgyz                ky           Аба сигнализациясы    
+55  lao                   lo           ປຸກອາກາດ              
+56  latin                 la           Air terrorem          
+57  latvian               lv           Gaisa signalizācija   
+58  lithuanian            lt           Oro signalizacija     
+59  luxembourgish         lb           Loft Alarm            
+60  macedonian            mk           Воздушен аларм        
+61  malagasy              mg           Fanairana rivotra     
+62  malay                 ms           Penggera udara        
+63  malayalam             ml           എയർ അലാറം             
+64  maltese               mt           Allarm bl-ajru        
+65  maori                 mi           He whakaoho hau       
+66  marathi               mr           एअर अलार्म            
+67  mongolian             mn           Агаарын дохиолол      
+68  myanmar (burmese)     my           လေအချက်ပေးသံ          
+69  nepali                ne           हावा अलार्म           
+70  norwegian             no           Luftalarm             
+71  odia                  or           ଏୟାର ଆଲାର୍ମ |         
+72  pashto                ps           د هوا الارم           
+73  persian               fa           دزدگیر هوا            
+74  polish                pl           Alarm powietrzny      
+75  portuguese            pt           Alarme aéreo          
+76  punjabi               pa           ਏਅਰ ਅਲਾਰਮ             
+77  romanian              ro           Alarma de aer         
+78  russian               ru           Воздушная тревога     
+79  samoan                sm           Fa'aliga ea           
+80  scots gaelic          gd           Inneal-rabhaidh adhair
+81  serbian               sr           Ваздушни аларм        
+82  sesotho               st           Alamo ea moea         
+83  shona                 sn           Air alarm             
+84  sindhi                sd           هوائي الارم           
+85  sinhala               si           වායු අනතුරු ඇඟවීම     
+86  slovak                sk           Vzduchový alarm       
+87  slovenian             sl           Zračni alarm          
+88  somali                so           Alaarmiga hawada      
+89  spanish               es           alarma de aire        
+90  sundanese             su           Alarm hawa            
+91  swahili               sw           Kengele ya hewa       
+92  swedish               sv           Luftlarm              
+93  tajik                 tg           Ҳушдори ҳавоӣ         
+94  tamil                 ta           காற்று அலாரம்         
+95  telugu                te           ఎయిర్ అలారం           
+96  thai                  th           สัญญาณเตือนอากาศ      
+97  turkish               tr           Hava alarmı           
+98  ukrainian             uk           Повітряна тривога     
+99  urdu                  ur           ایئر الارم            
+100 uyghur                ug           ھاۋا سىگنالى          
+101 uzbek                 uz           Havo signalizatsiyasi 
+102 vietnamese            vi           Báo động không khí    
+103 welsh                 cy           Larwm aer             
+104 xhosa                 xh           Isivusi somoya        
+105 yiddish               yi           לופט שרעק             
+106 yoruba                yo           Itaniji afẹfẹ         
+107 zulu                  zu           I-alamu yomoya        

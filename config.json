@@ -1,0 +1,8 @@
+{
+    "input_file": "sometext.txt",
+    "char_limit": 500,
+    "word_limit": 150,
+    "sentence_limit": 10,
+    "target_language": "en",
+    "output_method": "file"
+}
